@@ -135,7 +135,7 @@ Metrics Processing & Storage
 ## 📁 Project Structure
 
 ```
-stress-tester/
+load-force/
 │
 ├── backend/
 │   ├── api/                # FastAPI routes
@@ -163,8 +163,8 @@ stress-tester/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd stress-tester
+git clone https://github.com/Mayur-Shashidhar.git
+cd load-force
 ```
 
 ---
