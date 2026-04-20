@@ -201,11 +201,8 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-> Add these after deployment for best impact:
-
-* Dashboard Interface
-* Test Execution Results
-* History & Analytics View
+<img width="1512" height="982" alt="Screenshot 2026-04-20 at 11 43 18 AM" src="https://github.com/user-attachments/assets/912fdfd9-dca9-40b9-8c5b-df1794d34fdb" />
+<img width="1512" height="982" alt="Screenshot 2026-04-20 at 11 44 43 AM" src="https://github.com/user-attachments/assets/6a2804cf-ede9-47e7-82fb-1991e6979c27" />
 
 ---
 
